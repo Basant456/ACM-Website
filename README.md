@@ -9,7 +9,7 @@ This is a web-based project built using PHP, HTML, CSS, and MySQL.
 - Secure password hashing
 
 ## Setup Instructions
-1. Import users.sql into phpMyAdmin
+1. Import acm_db.sql into phpMyAdmin
 2. Place project folder inside htdocs (XAMPP)
 3. Run using localhost
 
